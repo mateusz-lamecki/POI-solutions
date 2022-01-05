@@ -1,3 +1,3 @@
 # Polish Olympiad in Informatics - my solutions
 
-All problems are available on [MAIN platform](http://main.edu.pl/en/archive/oi) [PL/EN]
+All problems are available on [SZKOpuł platform](https://szkopul.edu.pl/p/default/problemset_eng/oi) [PL/EN]
